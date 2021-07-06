@@ -1,0 +1,10 @@
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\bin\Debug\Projetos.exe.config
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\bin\Debug\Projetos.exe
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\bin\Debug\Projetos.pdb
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.csprojAssemblyReference.cache
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.Form1.resources
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.Properties.Resources.resources
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.csproj.GenerateResource.cache
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.exe
+C:\Users\herna\OneDrive\Área de Trabalho\Projetos\Projetos\obj\Debug\Projetos.pdb
